@@ -1,2 +1,11 @@
 ### IDE
 /.idea/
+
+### MacOS
+.DS_Store
+
+### Dependencies
+/node_modules/
+
+### Release
+/dist/
